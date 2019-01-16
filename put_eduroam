@@ -1,5 +1,5 @@
 Description='PUT eduroam profile'
-Interface=wlp2s0
+Interface=twoj_interfejs
 Connection=wireless
 Security=wpa-configsection
 IP=dhcp

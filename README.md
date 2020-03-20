@@ -1,5 +1,5 @@
 # PUT netctl eduroam config
-Konfiguracja sieci eduroam Politechiki Poznańskiej z użyciem netctl
+Konfiguracja dostępu do sieci eduroam Politechiki Poznańskiej z użyciem netctl
 <h2>Instrukcja</h2>
 <ol>
   <li>Zaloguj się na <a href="https://elogin.put.poznan.pl">elogin PUT</a></li>
